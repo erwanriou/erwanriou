@@ -1,16 +1,14 @@
-### Hi there 👋
+## Erwan Riou - FullStack Software Architect
 
-<!--
-**erwanriou/erwanriou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Le rêve est la liberté dont je suis l'esclave_
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Architecture          |    Design             |  Front-End Development |  Back-End Development  |  Devops              |
+| --------------------- | --------------------- | ---------------------  | ---------------------  |--------------------- |
+| Project Management    | Strategy              |  React                 |  Nodejs                |  Docker              |
+| Revit and BIM Tech    | Design Thinking       |  React-Native          |  Express               |  Shell               |
+| Autocad               | UI web Design         |  Redux                 |  MongoDB               |  Kubernates          |
+| Maxwell Render        | UX Web Design         |  Webpack               |  Gcloud/Aws/Azure      |  Skaffold            |
+| Vray                  | SEO/SEM               |  SCSS/SASS/CSS         |  SQL                   |  NATS Streamer       |
+| Sketchup              | Photoshop             |  JSS                   |  Npm                   |  Microservices Infra |
+| Rhinoceros            | Illustrator           |  Cypress               |  Mocha                 |  Docker Swarm        |
+| Cinema 4D             | In-Design             |  Nextjs                |  Git                   |  Github Actions      |
