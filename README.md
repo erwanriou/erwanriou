@@ -8,8 +8,8 @@ _Le rêve est la liberté dont je suis l'esclave_
 | Revit and BIM Tech    | Design Thinking       | React-Native          | Express               | Shell               |
 | Autocad               | UI Web Design         | Redux                 | MongoDB               | Kubernetes          |
 | Maxwell Render        | UX Web Design         | Webpack               | AWS sdk               | Skaffold            |
-| Vray                  | SEO/SEM               | SCSS/SASS/CSS         | SQL                   | NATS Streamer       |
+| Vray                  | SEO/SEM               | SCSS/SASS/CSS         | SQL                   | Git                 |
 | Sketchup              | Photoshop             | JSS                   | Npm                   | Microservices Infra |
 | Rhinoceros            | Illustrator           | Cypress               | Mocha                 | Docker Swarm        |
 | Cinema 4D             | In-Design             | Nextjs                | Jest                  | Github Actions      |
-|                       |                       |                       | Git                   | Gcloud              |
+|                       |                       |                       | NATS Streamer         | Gcloud              |
