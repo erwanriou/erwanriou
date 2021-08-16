@@ -1,1 +1,1 @@
-![dreams](/dreams_dark2.png?raw=true)
+<kbd>![dreams](/dreams_dark2.png?raw=true)</kbd>
