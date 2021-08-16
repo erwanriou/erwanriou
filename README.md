@@ -1,8 +1,4 @@
-<div class="background-image">
+<div class="background-image" style="box-shadow: 0px 0px 25px #aaa;">
   <img src="/dreams_dark2.png" alt="dream">
 </div>
 
-.background-image img {
-	box-shadow: 2px 2px 5px #999;
-	border-radius: 5px;
-}
